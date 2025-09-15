@@ -34,11 +34,7 @@
 
 ###
 
-<h2 align="left">Ferramentas que eu conheço</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/beatriz-miran/beatriz-miran/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Minhas redes sociais</h2>
 
 ###
 
