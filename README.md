@@ -1,3 +1,18 @@
+<p align="center>✦      ⋆          ✧               ★            ⋆
+       .       ✦         *                 ✧
+
+      ✨                🌙
+            ⋆                     ✦
+   *                 .                   ★
+
+✧        ⋆        ✦         *          ⋆
+         .                  ✧
+
+    ★             ⋆                ✦
+          *              .                ✧
+
+⋆          ✦          ★            *          ⋆</p>
+
 <h2 align="left">Oii, seja bem vindo(a) ao meu perfil!  💖</h2>
 
 ###
