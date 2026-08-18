@@ -24,7 +24,7 @@
 ---
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/acc55875-7c4e-44b9-8e41-f90ea6931be5" alt="Beatriz Miranda" width="200" align="left" style="margin-right: 15px;" />
+  <img src="https://github.com/user-attachments/assets/ffdccc25-1ae9-46f4-b3c3-65d996a2a5ba" alt="Beatriz Miranda" width="200" align="left" style="margin-right: 15px;" />
 
 <h3>🧠 about me</h3>
 
