@@ -1,57 +1,90 @@
-```text     
-  .            ✦                   .          *                .                  .                    ✧                     
-             .          .                     .                          *                    .                    
-*                   .             .                     .        ✦                 .                *                       
-       .                    *                .                         .                   .                    
-                 .                  .                *                          .                   ✦                  
-    ✧                     .                    .                 .                       *                  
-          .         *                 .                   .                  .                    .                             
-```
 
-<h2 align="left">Oii, seja bem vindo(a) ao meu perfil!  💖</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Beatriz%20Miranda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-###
+<p align="center">
+  <strong>Desenvolvedora Full-Stack Júnior • ADS • Tecnologia & Criatividade</strong>
+</p>
 
-<p align="left">Meu nome é Beatriz, tenho 21 anos e moro em Cajamar (SP).</p>
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-###
+---
 
-<h2 align="left">Ferramentas que eu conheço</h2>
+# 🧠 Sobre mim
 
-###
+Olá! Eu sou a **Beatriz Miranda**, desenvolvedora Full-Stack Júnior e estudante de **Análise e Desenvolvimento de Sistemas na FATEC**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+Gosto de transformar ideias em sistemas que realmente funcionam.
 
-###
+Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde então, venho explorando diferentes áreas do desenvolvimento de software, passando por aplicações web, mobile, bancos de dados, APIs e interfaces.
 
-<h2 align="left">Minhas redes sociais</h2>
+> 💡 Acredito que programar não é apenas escrever código.
+>
+> É entender um problema, pensar em uma solução e transformar essa ideia em algo que possa ser utilizado de verdade.
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+# 💻 Tecnologias
 
-###
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,php,c,react,nextjs,html,css,tailwind" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,aws" />
+</p>
+
+---
+
+
+# 📚 Formação
+
+🎓 **Análise e Desenvolvimento de Sistemas**  
+FATEC Santana de Parnaíba  
+2025 — 2027
+
+💻 **Técnico em Desenvolvimento de Sistemas**  
+ETEC Prof. Basilides de Godoy  
+2022 — 2023
+
+---
+
+# ⚡ Atualmente
+
+```text
+▸ Desenvolvendo aplicações Full-Stack
+▸ Estudando novas tecnologias
+▸ Criando projetos pessoais
+▸ Trabalhando com TypeScript e Next.js
+▸ Aprimorando arquitetura e boas práticas
+▸ Transformando ideias em produtos
+
+---
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=beatriz-miran&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Minhas%20Contribuições"
+    width="95%"
+  />
+</p>
