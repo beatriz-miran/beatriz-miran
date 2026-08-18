@@ -23,14 +23,10 @@
 
 ---
 
-<table border="0">
-  <tr>
-    <td valign="center" width="200">
-      <img width="300" height="300" alt="Beatriz Miranda" src="https://github.com/user-attachments/assets/acc55875-7c4e-44b9-8e41-f90ea6931be5" />
-    </td>
-    <td valign="top">
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/acc55875-7c4e-44b9-8e41-f90ea6931be5" alt="Beatriz Miranda" width="200" align="left" style="margin-right: 15px;" />
 
-## 🧠 about me
+<h3>🧠 about me</h3>
 
 Me chamo **Beatriz Miranda Solera**, sou desenvolvedora Full-Stack Júnior e estudante de **Análise e Desenvolvimento de Sistemas na FATEC**.
 
@@ -38,8 +34,7 @@ Gosto de transformar ideias em sistemas que realmente funcionam.
 
 Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde então, venho explorando diferentes áreas do desenvolvimento de software, passando por aplicações web, mobile, bancos de dados, APIs e interfaces.
 
-  </tr>
-</table>
+</div>
 
 > 💡 Acredito que programar não é apenas escrever código.
 >
@@ -47,24 +42,29 @@ Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde e
 
 ---
 
-## 💻 tech stack
+### 💻 tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,typescript,javascript,php,c,react,nextjs,html,css,tailwind,mysql,mongodb,firebase,git,github,vscode,androidstudio,aws" />
 </p>
 
+---
+<div align="left">
+ 
+<img src="https://github.com/user-attachments/assets/e8a3a38f-eb32-40c7-a8e0-dff77ba9aea4" width="300" align="right" style="margin-right: 15px; " />
+ 
+<h3> 📚 academic background</h3>
 
-## 📚 academic background
-
-🎓 **Análise e Desenvolvimento de Sistemas**  
+🎓 **análise e desenvolvimento de sistemas**  
 FATEC Santana de Parnaíba  
 2025 — 2027
 
-💻 **Técnico em Desenvolvimento de Sistemas**  
+💻 **técnico em desenvolvimento de Ssistemas**  
 ETEC Prof. Basilides de Godoy  
 2022 — 2023
 
----
+
+</div>
 
 <p align="center">
   <img
@@ -73,7 +73,7 @@ ETEC Prof. Basilides de Godoy
   />
 </p>
 
-# ⚡ currently
+### ⚡ currently
 
 ```text
 ▸ Desenvolvendo aplicações Full-Stack
