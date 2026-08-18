@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:334155&height=180&section=header&text=Beatriz%20Miranda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+ <img width="1280" height="320" alt="banner github" src="https://github.com/user-attachments/assets/acc368f8-db47-45aa-a1b1-75795713f835" />
 </p>
 
 <p align="center">
@@ -8,26 +8,38 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+ <a href="https://github.com/beatriz-miran">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=682801&labelColor=819d85&color=819d85">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white">
+  
+  <a href="https://www.linkedin.com/in/bia-miran">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=682801&labelColor=819d85&color=819d85">
   </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white">
+  
+  <a href="mailto:biamirandapro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=682801&labelColor=819d85&color=819d85">
   </a>
 </p>
 
 ---
 
-# 🧠 Sobre mim
+<table border="0">
+  <tr>
+    <td valign="center" width="200">
+      <img width="300" height="300" alt="Beatriz Miranda" src="https://github.com/user-attachments/assets/acc55875-7c4e-44b9-8e41-f90ea6931be5" />
+    </td>
+    <td valign="top">
 
-Olá! Eu sou a **Beatriz Miranda**, desenvolvedora Full-Stack Júnior e estudante de **Análise e Desenvolvimento de Sistemas na FATEC**.
+## 🧠 about me
+
+Me chamo **Beatriz Miranda Solera**, sou desenvolvedora Full-Stack Júnior e estudante de **Análise e Desenvolvimento de Sistemas na FATEC**.
 
 Gosto de transformar ideias em sistemas que realmente funcionam.
 
 Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde então, venho explorando diferentes áreas do desenvolvimento de software, passando por aplicações web, mobile, bancos de dados, APIs e interfaces.
+
+  </tr>
+</table>
 
 > 💡 Acredito que programar não é apenas escrever código.
 >
@@ -35,30 +47,14 @@ Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde e
 
 ---
 
-# 💻 Tecnologias
-
-### Linguagens
+## 💻 tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,php,c,react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,php,c,react,nextjs,html,css,tailwind,mysql,mongodb,firebase,git,github,vscode,androidstudio,aws" />
 </p>
 
-### Banco de Dados
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,aws" />
-</p>
-
----
-
-
-# 📚 Formação
+## 📚 academic background
 
 🎓 **Análise e Desenvolvimento de Sistemas**  
 FATEC Santana de Parnaíba  
@@ -70,7 +66,14 @@ ETEC Prof. Basilides de Godoy
 
 ---
 
-# ⚡ Atualmente
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=beatriz-miran&bg_color=transparent&color=682801&line=682801&point=819d85&area=true&hide_border=true&custom_title=activity_graph"
+    width="100%"
+  />
+</p>
+
+# ⚡ currently
 
 ```text
 ▸ Desenvolvendo aplicações Full-Stack
@@ -80,11 +83,3 @@ ETEC Prof. Basilides de Godoy
 ▸ Aprimorando arquitetura e boas práticas
 ▸ Transformando ideias em produtos
 
----
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=beatriz-miran&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Minhas%20Contribuições"
-    width="95%"
-  />
-</p>
