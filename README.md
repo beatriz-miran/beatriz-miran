@@ -68,7 +68,7 @@ ETEC Prof. Basilides de Godoy
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=beatriz-miran&bg_color=transparent&color=682801&line=682801&point=819d85&area=true&hide_border=true&custom_title=activity_graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=beatriz-miran&bg_color=transparent&color=819d85&line=819d85&point=819d85&area=true&hide_border=true&custom_title=activity_graph"
     width="100%"
   />
 </p>
