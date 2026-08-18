@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=682801&labelColor=819d85&color=819d85">
   </a>
   
-  <a href="https://www.linkedin.com/in/bia-miran">
+  <a href="https://www.linkedin.com/in/biamiran">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=682801&labelColor=819d85&color=819d85">
   </a>
   
