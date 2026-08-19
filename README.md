@@ -45,7 +45,7 @@ Minha jornada na tecnologia começou pelo desenvolvimento de sistemas e, desde e
 ### 💻 tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,php,c,react,nextjs,html,css,tailwind,mysql,mongodb,firebase,git,github,vscode,androidstudio,aws" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,react,nextjs,html,css,tailwind,mysql,mongodb,firebase,vscode,androidstudio" />
 </p>
 
 ---
