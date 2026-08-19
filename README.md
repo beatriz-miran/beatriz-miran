@@ -73,13 +73,4 @@ ETEC Prof. Basilides de Godoy
   />
 </p>
 
-### ⚡ currently
-
-```text
-▸ Desenvolvendo aplicações Full-Stack
-▸ Estudando novas tecnologias
-▸ Criando projetos pessoais
-▸ Trabalhando com TypeScript e Next.js
-▸ Aprimorando arquitetura e boas práticas
-▸ Transformando ideias em produtos
 
